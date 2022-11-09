@@ -1,0 +1,12 @@
+intro
+uae/*.adf
+uae/dh0/*
+!uae/dh0/c/
+!uae/dh0/s/
+build
+build-vbcc
+.DS_Store
+bin
+!bin/config
+!bin/targets
+.vscode/ipch
